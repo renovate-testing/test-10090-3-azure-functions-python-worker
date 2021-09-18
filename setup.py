@@ -397,7 +397,7 @@ setup(
             'azure-eventhub~=5.1.0',
             'python-dateutil~=2.8.1',
             'pycryptodome~=3.10.1',
-            'flake8~=3.7.9',
+            'flake8~=3.9.2',
             'mypy',
             'pytest',
             'requests==2.*',
