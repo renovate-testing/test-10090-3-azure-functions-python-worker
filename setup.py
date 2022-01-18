@@ -388,7 +388,7 @@ setup(
               'azure_functions_worker.utils',
               'azure_functions_worker._thirdparty'],
     install_requires=[
-        'grpcio~=1.33.2',
+        'grpcio~=1.43.0',
         'grpcio-tools~=1.33.2',
     ],
     extras_require={
